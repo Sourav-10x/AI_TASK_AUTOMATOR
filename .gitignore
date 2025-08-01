@@ -1,0 +1,15 @@
+# Ignore secret keys
+.env
+
+# Python cache files
+_pycache_/
+*.pyc
+
+# VS Code settings
+.vscode/
+
+# Gradio outputs (optional)
+gradio/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
